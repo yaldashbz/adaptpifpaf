@@ -1,0 +1,12 @@
+torch==1.9.0
+torchvision==0.10.0
+av==9.2.0
+tqdm==4.64.1
+opencv-python==4.6.0.66
+numpy==1.23.3
+imutils==0.5.4
+openpifpaf-vita==0.14.0
+matplotlib==3.5.3
+progress==1.6
+pycocotools==2.0.4
+Pillow==9.2.0

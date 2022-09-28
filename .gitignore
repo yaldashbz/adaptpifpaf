@@ -1,0 +1,18 @@
+# workstation
+scripts
+
+# system
+.idea
+.vscode
+*.so
+
+# Python
+*.pyc
+build/
+venv*/
+*.egg-info
+.eggs/
+__pycache__
+dist/
+.pytest_cache/
+.ipynb_checkpoints/
